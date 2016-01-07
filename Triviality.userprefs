@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Triviality\Triviality.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Triviality\QuizActivity.cs">
+    <Files>
+      <File FileName="Triviality\QuizActivity.cs" Line="43" Column="4" />
+      <File FileName="Triviality\Resources\menu\ResultMenu.xml" Line="1" Column="1" />
+      <File FileName="Triviality\Resources\menu\QuizMenu.xml" Line="1" Column="1" />
+      <File FileName="Triviality\ResultActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
